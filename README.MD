@@ -1,3 +1,8 @@
+Nama : Muhammad Rangga Pratama Cellyanda
+NIM : 241011401662
+Kelas : 05TPLE005
+
+
 Kesimpulan Hasil UTS Machine Learning
 
 Berdasarkan hasil pengolahan data, metode Linear Regression menunjukkan hubungan positif antara biaya iklan dan penjualan, dengan koefisien sebesar 9,0379 dan nilai \\(R^2\\) sebesar 0,9868, sehingga model mampu menjelaskan sekitar 98,68% variasi penjualan pada data pengujian. Pada Gradient Descent, learning rate 0,02 memberikan hasil yang mendekati Normal Equation, sedangkan 0,1 tidak stabil.
